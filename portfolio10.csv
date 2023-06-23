@@ -1,5 +1,4 @@
 "Date","Close","Holding","Corp","Value"
-"31-May-22",1388.95,20,"Andromeda",27779
 "01-Jun-22",1394.85,20,"Andromeda",27897
 "02-Jun-22",1385.1,20,"Andromeda",27702
 "03-Jun-22",1380.3,20,"Andromeda",27606
@@ -9,7 +8,7 @@
 "09-Jun-22",1377.7,20,"Andromeda",27554
 "10-Jun-22",1351.1,20,"Andromeda",27022
 "13-Jun-22",1326.6,20,"Andromeda",26532
-"31-May-22",468.1,50,"Canis Major",23405
+"14-Jun-22",1312,20,"Andromeda",26240
 "01-Jun-22",468.3,50,"Canis Major",23415
 "02-Jun-22",469.85,50,"Canis Major",23492.5
 "03-Jun-22",464.5,50,"Canis Major",23225
@@ -19,3 +18,4 @@
 "09-Jun-22",466.95,50,"Canis Major",23347.5
 "10-Jun-22",461.85,50,"Canis Major",23092.5
 "13-Jun-22",445.85,50,"Canis Major",22292.5
+"14-Jun-22",448.1,50,"Canis Major",22405
